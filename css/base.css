@@ -146,9 +146,9 @@ s, i, em {
     }
     .site-native-send s{
         position: absolute;
-
-
-
+    }
+    .site-native-right{
+        float: left;
     }
         /*--site-native--end--*/
 
